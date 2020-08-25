@@ -1,10 +1,13 @@
+body {
+    background-image: url('C:\Users\Sam\homework\portfolio\img.jpg');
+  }
 h1 {font-family: 'Londrina Solid', cursive; font-size: 500%; padding-top: 20px}
 h2 {font-family: 'Londrina Solid', cursive; font-size: 250%}
 .h1 {font-family: 'Londrina Solid', cursive;}
 p {font-family: 'Raleway', sans-serif;}
 .bg-custom {background-color: #8dace9;}
 .padicon {padding: 6px}
-.container {background-color: #ffd0d0}
+.container {background-color: #fbffe6}
 .img-frame {background: #ffffff;
             border: 2px solid #000000;
              border-radius: 2px 2px 2px 2px;
