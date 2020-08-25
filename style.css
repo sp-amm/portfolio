@@ -4,8 +4,8 @@ h2 {font-family: 'Londrina Solid', cursive; font-size: 250%}
 p {font-family: 'Raleway', sans-serif;}
 .bg-custom {background-color: #8dace9;}
 .padicon {padding: 6px}
-.container {background-color: }
-.img-frame {background: #f8f5f5;
+.container {background-color: #ffd0d0}
+.img-frame {background: #ffffff;
             border: 2px solid #000000;
              border-radius: 2px 2px 2px 2px;
             padding: 10px;}
