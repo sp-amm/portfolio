@@ -1,7 +1,7 @@
-  .background {
+  /*.background {
     background-image: url('./images/bg1.jpg');
 
-  }
+  }*/
 
   
   h1 {font-family: 'Open Sans', sans-serif; font-size: 200%; padding-top: 20px;}
@@ -22,7 +22,7 @@
   /*sets card size and padding*/
   .card-size {width: 12rem;}
 
-  .card-margin {margin: 0;}
+  .card-margin {margin: 0.25rem;}
 
   /*adds a frame around images*/
   .img-frame {background: #ffffff;
@@ -44,5 +44,5 @@
   @media (min-width: 600px) {
     h1 {font-size: 500%;}
     .card-size {width: 16rem;}
-    .card-margin {margin: 3rem}
+    .card-margin {margin: 1rem}
    }
