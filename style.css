@@ -19,6 +19,8 @@
 
   .container {background-color: #ffe6e6}
 
+  .container-fluid {background-color: #ffe6e6}
+
   /*sets card size and padding*/
   .card-size {width: 12rem;}
 
@@ -46,3 +48,5 @@
     .card-size {width: 16rem;}
     .card-margin {margin: 1rem}
    }
+
+   @media (min-width: )
