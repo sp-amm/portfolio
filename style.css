@@ -1,12 +1,10 @@
-body {
-    background-image: url('./images/bg1.jpg') no-repeat;
-    width:100%;
-    height: 100%;
-    background-size: 100%;
+  .background {
+    background-image: url('./images/bg1.jpg');
+
   }
 
   
-  h1 {font-family: 'Open Sans', sans-serif; font-size: 250%; padding-top: 20px}
+  h1 {font-family: 'Open Sans', sans-serif; font-size: 200%; padding-top: 20px;}
 
   h2 {font-family: 'Open Sans', sans-serif; font-size: 250%}
 
@@ -14,11 +12,17 @@ body {
 
   p {font-family: 'Montserrat', sans-serif;}
 
-  .bg-custom {background-color: #8dace9;}
+  /*sets background colour and image*/
+  /*.bg-custom {background-color: #8dace9;}*/
 
   .padicon {padding: 6px}
 
   .container {background-color: #ffe6e6}
+
+  /*sets card size and padding*/
+  .card-size {width: 12rem;}
+
+  .card-margin {margin: 0;}
 
   /*adds a frame around images*/
   .img-frame {background: #ffffff;
@@ -31,7 +35,7 @@ body {
   .form-container {
     position: absolute;
     background: #ffffff;
-    padding: 30px;
+    padding: 20px;
     border-radius: 10px;
     box-shadow: 0px 0px 10px 0px #000000;
 
@@ -39,4 +43,6 @@ body {
 
   @media (min-width: 600px) {
     h1 {font-size: 500%;}
+    .card-size {width: 16rem;}
+    .card-margin {margin: 3rem}
    }
