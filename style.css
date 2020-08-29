@@ -5,9 +5,7 @@
                    background-repeat: no-repeat;
                    background-position: center;}
 
- 
-
-  
+   
   h1 {font-family: 'Open Sans', sans-serif; font-size: 200%; padding-top: 20px;}
 
   h2 {font-family: 'Open Sans', sans-serif; font-size: 250%}
@@ -16,8 +14,7 @@
 
   p {font-family: 'Montserrat', sans-serif;}
 
-  /*sets background colour for navbar
-  Disabled because it looks better without it*/
+  /*sets background colour for navbar*/
   .bg-custom {background-color: #9796aa;}
 
   .padicon {padding: 6px}
