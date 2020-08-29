@@ -1,5 +1,12 @@
 # portfolio
 
+Porfolio site with the following pages: About, Porfolio, and Contact.
+
+Images:
+Personal image: url(https://github.com/sp-amm/portfolio/blob/master/images/face.jpg)
+Background image: url(https://github.com/sp-amm/portfolio/blob/master/images/bg1.JPG)
+Github logo: url(https://github.com/sp-amm/portfolio/blob/master/images/GitHub-Mark-32px.png)
+
 # Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
 
 Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application. 
@@ -65,12 +72,18 @@ DONE
 
 * Must use semantic html.
 
+
 * Each page must have valid and correct HTML. (use a validation service)
+
+DONE
 
 * Must contain your personalized information. (bio, name, images, links to social media, etc.)
 
+DONE
+
 * Must properly utilize Bootstrap components and grid system.
 
+DONE
 
 ### Bonus
 
