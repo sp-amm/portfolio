@@ -1,7 +1,11 @@
-  /*.background {
-    background-image: url('./images/bg1.jpg');
+  
+  .background-image { background-image: url(./images/bg1.jpg);
+                   background-size: cover;
+                   background-attachment: fixed;
+                   background-repeat: no-repeat;
+                   background-position: center;}
 
-  }*/
+ 
 
   
   h1 {font-family: 'Open Sans', sans-serif; font-size: 200%; padding-top: 20px;}
@@ -13,8 +17,8 @@
   p {font-family: 'Montserrat', sans-serif;}
 
   /*sets background colour for navbar
-  Disabled because it looks better without it
-  .bg-custom {background-color: #8dace9;}*/
+  Disabled because it looks better without it*/
+  .bg-custom {background-color: #9796aa;}
 
   .padicon {padding: 6px}
 
