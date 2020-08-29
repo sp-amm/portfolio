@@ -12,10 +12,14 @@
 
   p {font-family: 'Montserrat', sans-serif;}
 
-  /*sets background colour and image*/
+  /*sets background colour*/
   /*.bg-custom {background-color: #8dace9;}*/
 
   .padicon {padding: 6px}
+
+  .githublogo {
+              height: 17px; 
+              width: 17px;}
 
   .container {background-color: #ffe6e6}
 
