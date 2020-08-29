@@ -12,8 +12,9 @@
 
   p {font-family: 'Montserrat', sans-serif;}
 
-  /*sets background colour*/
-  /*.bg-custom {background-color: #8dace9;}*/
+  /*sets background colour for navbar
+  Disabled because it looks better without it
+  .bg-custom {background-color: #8dace9;}*/
 
   .padicon {padding: 6px}
 
