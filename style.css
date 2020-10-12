@@ -13,6 +13,19 @@
 
   .h1 {font-family: 'Satisfy', cursive;}
 
+  .card-text {
+    font-family: 'Satisfy', cursive;
+    font-size: 150%;
+    font-weight: bolder;
+    padding: 6px;
+    padding-top: 10%;
+    }
+
+  .cardBorder {
+    border: #000000;
+    border-width: 2px;
+  }
+
   p {font-family: 'Montserrat', sans-serif;}
 
   /*sets background colour for navbar*/
